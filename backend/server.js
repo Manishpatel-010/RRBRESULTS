@@ -97,6 +97,11 @@ app.get('/result', (req, res) => {
   res.sendFile(path.join(__dirname, '..', 'Result.html'));
 });
 
+// Redirect Results.html to Result.html (common typo fix)
+app.get('/Results.html', (req, res) => {
+  res.redirect('/Result.html');
+});
+
 app.get('/check-result', (req, res) => {
   res.sendFile(path.join(__dirname, '..', 'CheckResult.html'));
 });
