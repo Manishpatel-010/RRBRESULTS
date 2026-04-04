@@ -1,25 +1,5 @@
 [
   {
-    "ctrl_no": "4507682456",
-    "roll_no": "224083465825461",
-    "name": "RUTURAJ SUNIL DHONUKSHE",
-    "father_name": "SUNIL DHONUKSHE",
-    "dob": "28/08/2005",
-    "post": "COMMERCIAL (CLERK)",
-    "venue": "NORTHERN RAILWAY, NEW DELHI",
-    "result": "QUALIFIED"
-[
-  {
-    "ctrl_no": "4507682456",
-    "roll_no": "00000",
-    "name": "RUTURAJ SUNIL DHONUKSHE",
-    "father_name": "SUNIL DHONUKSHE",
-    "dob": "28/08/2005",
-    "post": "COMMERCIAL (CLERK)",
-    "venue": "NORTHERN RAILWAY, NEW DELHI",
-    "result": "QUALIFIED"
-[
-  {
     "ctrl_no": "4695232402",
     "roll_no": "259941225478046",
     "name": "RAJESH SAINI",
@@ -27,8 +7,18 @@
     "dob": "11/02/1992",
     "post": "COMMERCIAL (CLERK)",
     "venue": "NORTHERN RAILWAY, NEW DELHI",
-    "result": "QUALIFIED"
+    "result": "QUALIFIED"    
   },
+  {
+    ctrl_no": "4507682456",
+    "roll_no": "224083465825461",
+    "name": "RUTURAJ SUNIL DHONUKSHE",
+    "father_name": "SUNIL DHONUKSHE",
+    "dob": "28/08/2005",
+    "post": "COMMERCIAL (CLERK)",
+    "venue": "NORTHERN RAILWAY, NEW DELHI",
+    "result": "QUALIFIED"
+},
   {
     "ctrl_no": "4598804675",
     "roll_no": "259504103183073",
