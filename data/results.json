@@ -30,6 +30,36 @@
     "result": "QUALIFIED"
    },
    {
+    "ctrl_no": "4540804326",
+    "roll_no": "224056735207314",
+    "name": "AMIT PARASHRAM PATIL",
+    "father_name": "PARASHRAM GAVADU PATIL",
+    "dob": "30/10/1998",
+    "post": "COMMERCIAL (CLERK)",
+    "venue": "NORTHERN RAILWAY, NEW DELHI",
+    "result": "QUALIFIED"
+   },
+   {
+    "ctrl_no": "3640738342",
+    "roll_no": "248692077252450",
+    "name": "TANMAY UMESH DHONUKSHE",
+    "father_name": "UMESH DHONUKSHE",
+    "dob": "04/11/2005",
+    "post": "COMMERCIAL (CLERK)",
+    "venue": "NORTHERN RAILWAY, NEW DELHI",
+    "result": "QUALIFIED"
+  },
+  {
+   "ctrl_no": "3628497034",
+    "roll_no": "248652087250648",
+    "name": "RUSHIKESH SUNIL DHONUKSHE",
+    "father_name": "SUNIL DATTATRAY DHONUKSHE",
+    "dob": "21/04/2000",
+    "post": "JE",
+    "venue": "NORTHERN RAILWAY, NEW DELHI",
+    "result": "QUALIFIED"
+   },
+   {
     "ctrl_no": "3964850149",
     "roll_no": "248696487589002",
     "name": "GANESH SANJAY ARIKAR",
