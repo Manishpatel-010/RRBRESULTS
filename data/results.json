@@ -10,6 +10,35 @@
     "result": "QUALIFIED" 
    },
    {
+    "ctrl_no": "3773540617",
+    "roll_no": "248766038213058",
+    "name": "RAHUL DILIP DANDGE",
+    "father_name": "BABURAO TAMBDE",
+    "dob": "28/03/2002",
+    "post": "STATION MASTER",
+    "venue": "NORTHERN RAILWAY, NEW DELHI",
+    "result": "QUALIFIED"
+   {
+    "ctrl_no": "3748202659",
+    "roll_no": "248350356176839",
+    "name": "SACHIN BABURAO TAMBDE",
+    "father_name": "BABURAO TAMBDE",
+    "dob": "11/09/1995",
+    "post": "STATION MASTER",
+    "venue": "NORTHERN RAILWAY, NEW DELHI",
+    "result": "QUALIFIED"      
+   },
+   {
+    "ctrl_no": "3748136902",
+    "roll_no": "248350356892570",
+    "name": "WAKLE SAGAR BALU",
+    "father_name": "BALU",
+    "dob": "28/03/2008",
+    "post": "TICKET CLERK",
+    "venue": "NORTHERN RAILWAY, NEW DELHI",
+    "result": "QUALIFIED"      
+   },
+   {
     "ctrl_no": "3748136902",
     "roll_no": "248351762398027",
     "name": "PAWAN NANA HOLE",
@@ -25,7 +54,7 @@
     "name": "MATE KARTIK SHRIRAM",
     "father_name": "SHRIRAM MATE",
     "dob": "24/02/2001",
-    "post": "TICKET CLERK",
+    "post": "STATION MASTER",
     "venue": "NORTHERN RAILWAY, NEW DELHI",
     "result": "QUALIFIED"      
    },
